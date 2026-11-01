@@ -1,3 +1,10 @@
+2026 Nov 1
+Currently loner, hope nothing bad happens to me!....
+
+
+
+
+--------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @VictorRandall
 - 👀 I’m interested in game dev ...
 - 🌱 I’m currently learning godot engine and rust...
