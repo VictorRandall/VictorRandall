@@ -1,7 +1,7 @@
 **2026 Nov 1**:
 Currently loner, hope nothing bad happens to me!....
 
-
+ - currently just learning TheAlgorithms/C, got nothing else, they took everything
 
 
 --------------------------------------------------------------------------------------------------
